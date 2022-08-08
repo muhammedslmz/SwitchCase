@@ -1,0 +1,15 @@
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.csproj.AssemblyReference.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.AssemblyInfoInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.AssemblyInfo.cs
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.csproj.CoreCompileInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\bin\Debug\net6.0\Swich-Case.exe
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\bin\Debug\net6.0\Swich-Case.deps.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\bin\Debug\net6.0\Swich-Case.runtimeconfig.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\bin\Debug\net6.0\Swich-Case.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\bin\Debug\net6.0\Swich-Case.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\refint\Swich-Case.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\Swich-Case.genruntimeconfig.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Swich-Case\obj\Debug\net6.0\ref\Swich-Case.dll
